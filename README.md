@@ -55,7 +55,7 @@ Python3.10 modules that need installing include:
    cd rok-peerless-scholar
    ```
 3. Run
-   ```
+   ```sh
    python3.10 main.py
    ```
 
@@ -64,6 +64,8 @@ Python3.10 modules that need installing include:
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+
+![img.png](img.png)
 
 <!-- LICENSE -->
 
